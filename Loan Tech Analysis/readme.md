@@ -110,9 +110,9 @@ This project involved the transformation of raw bank loan data into an interacti
 
 ## 📎 Conclusion
 
-This Excel-based **Bank Loan Application Dashboard** empowers users with a clear and interactive overview of loan data. With intuitive visualizations and key financial indicators, it provides fast insights into loan aging, customer risk exposure, and overdue management. It is ideal for banks, credit unions, and financial institutions looking to enhance their loan tracking and credit risk assessment capabilities.
+This Excel-based **Bank Loan Application Dashboard** emp intuitive visualizations and key financial indicators, it provides fast insights into loan aging, customer risk exposure, and overdue management. It is ideal for banks, credit unions, and financial institutions looking to enhance their loan tracking and credit risk assessment capabilities.
 
 ---
 
-Let me know if you’d like this exported as a PDF, DOCX, or PowerPoint summary.
+
 
