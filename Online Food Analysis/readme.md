@@ -35,9 +35,7 @@ The primary objectives of the dashboard are:
 
 ## 📘 Overview of Work
 
-The dashboard processes raw survey or customer data and presents it in an intuitive and visually appealing manner. Key indicators such as family size, income, and location details are summarized at the top, while deeper analysis is presented through charts that cover average income, family size by education level, and distribution by gender and occupation.
-
-The use of slicers allows users to interactively filter the data for a more tailored analysis experience.
+The dashboard processes raw survey or customer data and presents it in an intuitive and visually appealing manner. Key indicators such as family size, income, and location details are summarized at the top, while deeper analysis is presented through charts that cover average income, family size by education level, and distribution by gender and occupation. The use of slicers allows users to interactively filter the data for a more tailored analysis experience.
 
 ---
 
