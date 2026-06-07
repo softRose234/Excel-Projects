@@ -11,7 +11,7 @@ This dashboard presents a visual summary of Manchester City’s performance in t
 
 ## 🛠 Tools Used
 
-* **Microsoft Excel**
+ **Microsoft Excel**
 
   * Pivot Tables
   * Slicers
